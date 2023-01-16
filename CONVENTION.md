@@ -11,7 +11,7 @@
   - [Commits](#commits)
   - [Pull requests, Merge requests](#pull-requests-merge-requests)
 - [Lint](#lint)
-  - [Standard references](#standards-references)
+  - [Standard references](#standard-references)
   - [Tools](#tools)
 
 ## Nguồn tham khảo:
